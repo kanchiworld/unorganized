@@ -5,6 +5,8 @@ The point is that unit normal can be calculated simply by visual observation. (f
 
 $$
 \vec{r}(t) \equiv f(t)\hat{i}+g(t)\hat{j}
+$$
+$$
 Unit Tangent 
 \vec{T}\left(t\right)=\frac{\vec{r^\prime}\left(t\right)}{\left|\vec{r^\prime}\left(t\right)\right|}
 =\frac{f^\prime\hat{i}+g^\prime\hat{j}}{\sqrt{f^{\prime2}+g^{\prime2}}}
