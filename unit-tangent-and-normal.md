@@ -4,6 +4,10 @@ Unit Tangent and Unit Normal vectors in 2-D
 The point is that unit normal can be calculated simply by visual observation. (flip the coeff of i and j, and introduce a minus sign on any one of them. We don’t have to take the derivatives to calculate unit normal in 2-D case. Proof below).
 
 $$
+\vec{r}(t)
+$$
+
+$$
 \vec{r}\left(t\right)\ \equivf\left(t\right)\hat{i}+g\left(t\right)\hat{j}
 Unit Tangent 
 \vec{T}\left(t\right)=\frac{\vec{r^\prime}\left(t\right)}{\left|\vec{r^\prime}\left(t\right)\right|}
